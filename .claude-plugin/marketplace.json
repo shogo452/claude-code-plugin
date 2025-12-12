@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-plugin",
+  "owner": {
+    "name": "shogo452"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-plugin",
+      "source": "./claude-code-plugin",
+      "description": "shogo's claude code plugin"
+    }
+  ]
+}
