@@ -1,0 +1,9 @@
+{
+  "name": "shogo's claude code plugin",
+  "version": "1.0.0",
+  "description": "shogo's claude code plugin",
+  "author": "shogo452",
+  "repository": "https://github.com/shogo452/claude-code-plugin",
+  "license": "MIT",
+  "keywords": ["code-review", "security"]
+}
